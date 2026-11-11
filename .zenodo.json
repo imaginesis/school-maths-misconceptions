@@ -1,0 +1,51 @@
+{
+  "title": "Typical student errors in school maths: misconception codes with teacher labels in 7 languages",
+  "upload_type": "dataset",
+  "description": "935 codes of typical student errors in school mathematics (lost carry, added denominators, wrong angle sum, fencepost error and others), each with a short teacher-facing label in English, Polish, German, French, Spanish, Italian and Dutch, linked to the school maths skills where the error is modelled in multiple-choice distractors. Skill identifiers match the Imaginesis curriculum crosswalk, prerequisite graph and skill names datasets. Not a frequency study. Prepared by Imaginesis (https://imaginesis.com), a maths word-problem worksheet generator.",
+  "creators": [
+    {
+      "name": "Imaginesis"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "mathematics education",
+    "misconceptions",
+    "student errors",
+    "distractors",
+    "multiple choice",
+    "assessment",
+    "multilingual",
+    "K-12",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://imaginesis.com",
+      "relation": "isSupplementTo",
+      "resource_type": "other"
+    },
+    {
+      "identifier": "10.5281/zenodo.23217841",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23451451",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "10.5281/zenodo.23452239",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://imaginesis.com/en/open-data",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ]
+}

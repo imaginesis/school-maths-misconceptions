@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it."
+title: "Typical student errors in school maths: misconception codes with teacher labels in 7 languages"
+authors:
+  - name: Imaginesis
+    website: https://imaginesis.com
+date-released: 2026-11-11
+license: CC-BY-4.0
+type: dataset
+url: https://imaginesis.com/en/open-data
